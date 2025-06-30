@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tylerdhoover.com	TRUE	/	FALSE	1999999999	crumb	BQJlajCk47hCZGRhOTBlZDFmMTE1ZTFhMzQ3MDEyM2FjYzE4YjM0
+
